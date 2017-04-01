@@ -1,4 +1,10 @@
 
+Data Analysis Application for IMDB - Movie Application      [Java, Oracle, JFrame]
+•	ER Designing, created relational schemas using DDL/DML statements including all the key & participation constraints.
+•	Handled extensive dataset and concept of JDBC is used for insertion.                     
+•	Designed a Stand-Alone Java Application to search for movies based on the specified attributes from the database.
+•	Performance analysis and indexes are included to speed up query execution.
+
 
 createdb.sql - script is used for creating all the required tables and their indexes.RunTime
 
